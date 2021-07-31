@@ -1,0 +1,212 @@
+C:\git-focco\Treinamentos\Treinamento Focco em Frente 19-07-2021\Projeto Base Original\src\FoccoEmFrente.Kanban.Web\bin\Debug\netcoreapp3.1\appsettings.json
+C:\git-focco\Treinamentos\Treinamento Focco em Frente 19-07-2021\Projeto Base Original\src\FoccoEmFrente.Kanban.Web\bin\Debug\netcoreapp3.1\libman.json
+C:\git-focco\Treinamentos\Treinamento Focco em Frente 19-07-2021\Projeto Base Original\src\FoccoEmFrente.Kanban.Web\bin\Debug\netcoreapp3.1\FoccoEmFrente.Kanban.Web.StaticWebAssets.xml
+C:\git-focco\Treinamentos\Treinamento Focco em Frente 19-07-2021\Projeto Base Original\src\FoccoEmFrente.Kanban.Web\bin\Debug\netcoreapp3.1\FoccoEmFrente.Kanban.Web.exe
+C:\git-focco\Treinamentos\Treinamento Focco em Frente 19-07-2021\Projeto Base Original\src\FoccoEmFrente.Kanban.Web\bin\Debug\netcoreapp3.1\FoccoEmFrente.Kanban.Web.deps.json
+C:\git-focco\Treinamentos\Treinamento Focco em Frente 19-07-2021\Projeto Base Original\src\FoccoEmFrente.Kanban.Web\bin\Debug\netcoreapp3.1\FoccoEmFrente.Kanban.Web.runtimeconfig.json
+C:\git-focco\Treinamentos\Treinamento Focco em Frente 19-07-2021\Projeto Base Original\src\FoccoEmFrente.Kanban.Web\bin\Debug\netcoreapp3.1\FoccoEmFrente.Kanban.Web.runtimeconfig.dev.json
+C:\git-focco\Treinamentos\Treinamento Focco em Frente 19-07-2021\Projeto Base Original\src\FoccoEmFrente.Kanban.Web\bin\Debug\netcoreapp3.1\FoccoEmFrente.Kanban.Web.dll
+C:\git-focco\Treinamentos\Treinamento Focco em Frente 19-07-2021\Projeto Base Original\src\FoccoEmFrente.Kanban.Web\bin\Debug\netcoreapp3.1\FoccoEmFrente.Kanban.Web.pdb
+C:\git-focco\Treinamentos\Treinamento Focco em Frente 19-07-2021\Projeto Base Original\src\FoccoEmFrente.Kanban.Web\bin\Debug\netcoreapp3.1\FoccoEmFrente.Kanban.Web.Views.dll
+C:\git-focco\Treinamentos\Treinamento Focco em Frente 19-07-2021\Projeto Base Original\src\FoccoEmFrente.Kanban.Web\bin\Debug\netcoreapp3.1\FoccoEmFrente.Kanban.Web.Views.pdb
+C:\git-focco\Treinamentos\Treinamento Focco em Frente 19-07-2021\Projeto Base Original\src\FoccoEmFrente.Kanban.Web\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\git-focco\Treinamentos\Treinamento Focco em Frente 19-07-2021\Projeto Base Original\src\FoccoEmFrente.Kanban.Web\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Cryptography.Internal.dll
+C:\git-focco\Treinamentos\Treinamento Focco em Frente 19-07-2021\Projeto Base Original\src\FoccoEmFrente.Kanban.Web\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+C:\git-focco\Treinamentos\Treinamento Focco em Frente 19-07-2021\Projeto Base Original\src\FoccoEmFrente.Kanban.Web\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+C:\git-focco\Treinamentos\Treinamento Focco em Frente 19-07-2021\Projeto Base Original\src\FoccoEmFrente.Kanban.Web\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Identity.UI.Views.V3.dll
+C:\git-focco\Treinamentos\Treinamento Focco em Frente 19-07-2021\Projeto Base Original\src\FoccoEmFrente.Kanban.Web\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Identity.UI.Views.V4.dll
+C:\git-focco\Treinamentos\Treinamento Focco em Frente 19-07-2021\Projeto Base Original\src\FoccoEmFrente.Kanban.Web\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Identity.UI.dll
+C:\git-focco\Treinamentos\Treinamento Focco em Frente 19-07-2021\Projeto Base Original\src\FoccoEmFrente.Kanban.Web\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.JsonPatch.dll
+C:\git-focco\Treinamentos\Treinamento Focco em Frente 19-07-2021\Projeto Base Original\src\FoccoEmFrente.Kanban.Web\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Mvc.Razor.Extensions.dll
+C:\git-focco\Treinamentos\Treinamento Focco em Frente 19-07-2021\Projeto Base Original\src\FoccoEmFrente.Kanban.Web\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.NodeServices.dll
+C:\git-focco\Treinamentos\Treinamento Focco em Frente 19-07-2021\Projeto Base Original\src\FoccoEmFrente.Kanban.Web\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Razor.Language.dll
+C:\git-focco\Treinamentos\Treinamento Focco em Frente 19-07-2021\Projeto Base Original\src\FoccoEmFrente.Kanban.Web\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.SpaServices.dll
+C:\git-focco\Treinamentos\Treinamento Focco em Frente 19-07-2021\Projeto Base Original\src\FoccoEmFrente.Kanban.Web\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.SpaServices.Extensions.dll
+C:\git-focco\Treinamentos\Treinamento Focco em Frente 19-07-2021\Projeto Base Original\src\FoccoEmFrente.Kanban.Web\bin\Debug\netcoreapp3.1\Microsoft.Bcl.AsyncInterfaces.dll
+C:\git-focco\Treinamentos\Treinamento Focco em Frente 19-07-2021\Projeto Base Original\src\FoccoEmFrente.Kanban.Web\bin\Debug\netcoreapp3.1\Microsoft.Bcl.HashCode.dll
+C:\git-focco\Treinamentos\Treinamento Focco em Frente 19-07-2021\Projeto Base Original\src\FoccoEmFrente.Kanban.Web\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.dll
+C:\git-focco\Treinamentos\Treinamento Focco em Frente 19-07-2021\Projeto Base Original\src\FoccoEmFrente.Kanban.Web\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.dll
+C:\git-focco\Treinamentos\Treinamento Focco em Frente 19-07-2021\Projeto Base Original\src\FoccoEmFrente.Kanban.Web\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Razor.dll
+C:\git-focco\Treinamentos\Treinamento Focco em Frente 19-07-2021\Projeto Base Original\src\FoccoEmFrente.Kanban.Web\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\git-focco\Treinamentos\Treinamento Focco em Frente 19-07-2021\Projeto Base Original\src\FoccoEmFrente.Kanban.Web\bin\Debug\netcoreapp3.1\Microsoft.DotNet.PlatformAbstractions.dll
+C:\git-focco\Treinamentos\Treinamento Focco em Frente 19-07-2021\Projeto Base Original\src\FoccoEmFrente.Kanban.Web\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+C:\git-focco\Treinamentos\Treinamento Focco em Frente 19-07-2021\Projeto Base Original\src\FoccoEmFrente.Kanban.Web\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\git-focco\Treinamentos\Treinamento Focco em Frente 19-07-2021\Projeto Base Original\src\FoccoEmFrente.Kanban.Web\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+C:\git-focco\Treinamentos\Treinamento Focco em Frente 19-07-2021\Projeto Base Original\src\FoccoEmFrente.Kanban.Web\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+C:\git-focco\Treinamentos\Treinamento Focco em Frente 19-07-2021\Projeto Base Original\src\FoccoEmFrente.Kanban.Web\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\git-focco\Treinamentos\Treinamento Focco em Frente 19-07-2021\Projeto Base Original\src\FoccoEmFrente.Kanban.Web\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+C:\git-focco\Treinamentos\Treinamento Focco em Frente 19-07-2021\Projeto Base Original\src\FoccoEmFrente.Kanban.Web\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+C:\git-focco\Treinamentos\Treinamento Focco em Frente 19-07-2021\Projeto Base Original\src\FoccoEmFrente.Kanban.Web\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+C:\git-focco\Treinamentos\Treinamento Focco em Frente 19-07-2021\Projeto Base Original\src\FoccoEmFrente.Kanban.Web\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\git-focco\Treinamentos\Treinamento Focco em Frente 19-07-2021\Projeto Base Original\src\FoccoEmFrente.Kanban.Web\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Binder.dll
+C:\git-focco\Treinamentos\Treinamento Focco em Frente 19-07-2021\Projeto Base Original\src\FoccoEmFrente.Kanban.Web\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+C:\git-focco\Treinamentos\Treinamento Focco em Frente 19-07-2021\Projeto Base Original\src\FoccoEmFrente.Kanban.Web\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\git-focco\Treinamentos\Treinamento Focco em Frente 19-07-2021\Projeto Base Original\src\FoccoEmFrente.Kanban.Web\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyModel.dll
+C:\git-focco\Treinamentos\Treinamento Focco em Frente 19-07-2021\Projeto Base Original\src\FoccoEmFrente.Kanban.Web\bin\Debug\netcoreapp3.1\Microsoft.Extensions.FileProviders.Abstractions.dll
+C:\git-focco\Treinamentos\Treinamento Focco em Frente 19-07-2021\Projeto Base Original\src\FoccoEmFrente.Kanban.Web\bin\Debug\netcoreapp3.1\Microsoft.Extensions.FileProviders.Embedded.dll
+C:\git-focco\Treinamentos\Treinamento Focco em Frente 19-07-2021\Projeto Base Original\src\FoccoEmFrente.Kanban.Web\bin\Debug\netcoreapp3.1\Microsoft.Extensions.FileProviders.Physical.dll
+C:\git-focco\Treinamentos\Treinamento Focco em Frente 19-07-2021\Projeto Base Original\src\FoccoEmFrente.Kanban.Web\bin\Debug\netcoreapp3.1\Microsoft.Extensions.FileSystemGlobbing.dll
+C:\git-focco\Treinamentos\Treinamento Focco em Frente 19-07-2021\Projeto Base Original\src\FoccoEmFrente.Kanban.Web\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Identity.Core.dll
+C:\git-focco\Treinamentos\Treinamento Focco em Frente 19-07-2021\Projeto Base Original\src\FoccoEmFrente.Kanban.Web\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Identity.Stores.dll
+C:\git-focco\Treinamentos\Treinamento Focco em Frente 19-07-2021\Projeto Base Original\src\FoccoEmFrente.Kanban.Web\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+C:\git-focco\Treinamentos\Treinamento Focco em Frente 19-07-2021\Projeto Base Original\src\FoccoEmFrente.Kanban.Web\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+C:\git-focco\Treinamentos\Treinamento Focco em Frente 19-07-2021\Projeto Base Original\src\FoccoEmFrente.Kanban.Web\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Configuration.dll
+C:\git-focco\Treinamentos\Treinamento Focco em Frente 19-07-2021\Projeto Base Original\src\FoccoEmFrente.Kanban.Web\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Console.dll
+C:\git-focco\Treinamentos\Treinamento Focco em Frente 19-07-2021\Projeto Base Original\src\FoccoEmFrente.Kanban.Web\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+C:\git-focco\Treinamentos\Treinamento Focco em Frente 19-07-2021\Projeto Base Original\src\FoccoEmFrente.Kanban.Web\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.ConfigurationExtensions.dll
+C:\git-focco\Treinamentos\Treinamento Focco em Frente 19-07-2021\Projeto Base Original\src\FoccoEmFrente.Kanban.Web\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+C:\git-focco\Treinamentos\Treinamento Focco em Frente 19-07-2021\Projeto Base Original\src\FoccoEmFrente.Kanban.Web\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+C:\git-focco\Treinamentos\Treinamento Focco em Frente 19-07-2021\Projeto Base Original\src\FoccoEmFrente.Kanban.Web\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\git-focco\Treinamentos\Treinamento Focco em Frente 19-07-2021\Projeto Base Original\src\FoccoEmFrente.Kanban.Web\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+C:\git-focco\Treinamentos\Treinamento Focco em Frente 19-07-2021\Projeto Base Original\src\FoccoEmFrente.Kanban.Web\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+C:\git-focco\Treinamentos\Treinamento Focco em Frente 19-07-2021\Projeto Base Original\src\FoccoEmFrente.Kanban.Web\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\git-focco\Treinamentos\Treinamento Focco em Frente 19-07-2021\Projeto Base Original\src\FoccoEmFrente.Kanban.Web\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+C:\git-focco\Treinamentos\Treinamento Focco em Frente 19-07-2021\Projeto Base Original\src\FoccoEmFrente.Kanban.Web\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\git-focco\Treinamentos\Treinamento Focco em Frente 19-07-2021\Projeto Base Original\src\FoccoEmFrente.Kanban.Web\bin\Debug\netcoreapp3.1\Newtonsoft.Json.Bson.dll
+C:\git-focco\Treinamentos\Treinamento Focco em Frente 19-07-2021\Projeto Base Original\src\FoccoEmFrente.Kanban.Web\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+C:\git-focco\Treinamentos\Treinamento Focco em Frente 19-07-2021\Projeto Base Original\src\FoccoEmFrente.Kanban.Web\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+C:\git-focco\Treinamentos\Treinamento Focco em Frente 19-07-2021\Projeto Base Original\src\FoccoEmFrente.Kanban.Web\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+C:\git-focco\Treinamentos\Treinamento Focco em Frente 19-07-2021\Projeto Base Original\src\FoccoEmFrente.Kanban.Web\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+C:\git-focco\Treinamentos\Treinamento Focco em Frente 19-07-2021\Projeto Base Original\src\FoccoEmFrente.Kanban.Web\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+C:\git-focco\Treinamentos\Treinamento Focco em Frente 19-07-2021\Projeto Base Original\src\FoccoEmFrente.Kanban.Web\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+C:\git-focco\Treinamentos\Treinamento Focco em Frente 19-07-2021\Projeto Base Original\src\FoccoEmFrente.Kanban.Web\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+C:\git-focco\Treinamentos\Treinamento Focco em Frente 19-07-2021\Projeto Base Original\src\FoccoEmFrente.Kanban.Web\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+C:\git-focco\Treinamentos\Treinamento Focco em Frente 19-07-2021\Projeto Base Original\src\FoccoEmFrente.Kanban.Web\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+C:\git-focco\Treinamentos\Treinamento Focco em Frente 19-07-2021\Projeto Base Original\src\FoccoEmFrente.Kanban.Web\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+C:\git-focco\Treinamentos\Treinamento Focco em Frente 19-07-2021\Projeto Base Original\src\FoccoEmFrente.Kanban.Web\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+C:\git-focco\Treinamentos\Treinamento Focco em Frente 19-07-2021\Projeto Base Original\src\FoccoEmFrente.Kanban.Web\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.0\System.Runtime.Caching.dll
+C:\git-focco\Treinamentos\Treinamento Focco em Frente 19-07-2021\Projeto Base Original\src\FoccoEmFrente.Kanban.Web\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Runtime.Caching.dll
+C:\git-focco\Treinamentos\Treinamento Focco em Frente 19-07-2021\Projeto Base Original\src\FoccoEmFrente.Kanban.Web\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\git-focco\Treinamentos\Treinamento Focco em Frente 19-07-2021\Projeto Base Original\src\FoccoEmFrente.Kanban.Web\bin\Debug\netcoreapp3.1\FoccoEmFrente.Kanban.Api.dll
+C:\git-focco\Treinamentos\Treinamento Focco em Frente 19-07-2021\Projeto Base Original\src\FoccoEmFrente.Kanban.Web\bin\Debug\netcoreapp3.1\FoccoEmFrente.Kanban.Application.dll
+C:\git-focco\Treinamentos\Treinamento Focco em Frente 19-07-2021\Projeto Base Original\src\FoccoEmFrente.Kanban.Web\bin\Debug\netcoreapp3.1\FoccoEmFrente.Kanban.Api.pdb
+C:\git-focco\Treinamentos\Treinamento Focco em Frente 19-07-2021\Projeto Base Original\src\FoccoEmFrente.Kanban.Web\bin\Debug\netcoreapp3.1\FoccoEmFrente.Kanban.Application.pdb
+C:\git-focco\Treinamentos\Treinamento Focco em Frente 19-07-2021\Projeto Base Original\src\FoccoEmFrente.Kanban.Web\obj\Debug\netcoreapp3.1\FoccoEmFrente.Kanban.Web.csprojAssemblyReference.cache
+C:\git-focco\Treinamentos\Treinamento Focco em Frente 19-07-2021\Projeto Base Original\src\FoccoEmFrente.Kanban.Web\obj\Debug\netcoreapp3.1\FoccoEmFrente.Kanban.Web.AssemblyInfoInputs.cache
+C:\git-focco\Treinamentos\Treinamento Focco em Frente 19-07-2021\Projeto Base Original\src\FoccoEmFrente.Kanban.Web\obj\Debug\netcoreapp3.1\FoccoEmFrente.Kanban.Web.AssemblyInfo.cs
+C:\git-focco\Treinamentos\Treinamento Focco em Frente 19-07-2021\Projeto Base Original\src\FoccoEmFrente.Kanban.Web\obj\Debug\netcoreapp3.1\FoccoEmFrente.Kanban.Web.csproj.CoreCompileInputs.cache
+C:\git-focco\Treinamentos\Treinamento Focco em Frente 19-07-2021\Projeto Base Original\src\FoccoEmFrente.Kanban.Web\obj\Debug\netcoreapp3.1\FoccoEmFrente.Kanban.Web.MvcApplicationPartsAssemblyInfo.cs
+C:\git-focco\Treinamentos\Treinamento Focco em Frente 19-07-2021\Projeto Base Original\src\FoccoEmFrente.Kanban.Web\obj\Debug\netcoreapp3.1\FoccoEmFrente.Kanban.Web.MvcApplicationPartsAssemblyInfo.cache
+C:\git-focco\Treinamentos\Treinamento Focco em Frente 19-07-2021\Projeto Base Original\src\FoccoEmFrente.Kanban.Web\obj\Debug\netcoreapp3.1\FoccoEmFrente.Kanban.Web.RazorAssemblyInfo.cache
+C:\git-focco\Treinamentos\Treinamento Focco em Frente 19-07-2021\Projeto Base Original\src\FoccoEmFrente.Kanban.Web\obj\Debug\netcoreapp3.1\FoccoEmFrente.Kanban.Web.RazorAssemblyInfo.cs
+C:\git-focco\Treinamentos\Treinamento Focco em Frente 19-07-2021\Projeto Base Original\src\FoccoEmFrente.Kanban.Web\obj\Debug\netcoreapp3.1\staticwebassets\FoccoEmFrente.Kanban.Web.StaticWebAssets.Manifest.cache
+C:\git-focco\Treinamentos\Treinamento Focco em Frente 19-07-2021\Projeto Base Original\src\FoccoEmFrente.Kanban.Web\obj\Debug\netcoreapp3.1\staticwebassets\FoccoEmFrente.Kanban.Web.StaticWebAssets.xml
+C:\git-focco\Treinamentos\Treinamento Focco em Frente 19-07-2021\Projeto Base Original\src\FoccoEmFrente.Kanban.Web\obj\Debug\netcoreapp3.1\scopedcss\bundle\FoccoEmFrente.Kanban.Web.styles.css
+C:\git-focco\Treinamentos\Treinamento Focco em Frente 19-07-2021\Projeto Base Original\src\FoccoEmFrente.Kanban.Web\obj\Debug\netcoreapp3.1\FoccoEmFrente.Kanban.Web.TagHelpers.input.cache
+C:\git-focco\Treinamentos\Treinamento Focco em Frente 19-07-2021\Projeto Base Original\src\FoccoEmFrente.Kanban.Web\obj\Debug\netcoreapp3.1\FoccoEmFrente.Kanban.Web.TagHelpers.output.cache
+C:\git-focco\Treinamentos\Treinamento Focco em Frente 19-07-2021\Projeto Base Original\src\FoccoEmFrente.Kanban.Web\obj\Debug\netcoreapp3.1\FoccoEmFrente.Kanban.Web.RazorCoreGenerate.cache
+C:\git-focco\Treinamentos\Treinamento Focco em Frente 19-07-2021\Projeto Base Original\src\FoccoEmFrente.Kanban.Web\obj\Debug\netcoreapp3.1\Razor\Pages\Error.cshtml.g.cs
+C:\git-focco\Treinamentos\Treinamento Focco em Frente 19-07-2021\Projeto Base Original\src\FoccoEmFrente.Kanban.Web\obj\Debug\netcoreapp3.1\Razor\Pages\_ViewImports.cshtml.g.cs
+C:\git-focco\Treinamentos\Treinamento Focco em Frente 19-07-2021\Projeto Base Original\src\FoccoEmFrente.Kanban.Web\obj\Debug\netcoreapp3.1\FoccoEmFrente.Kanban.Web.RazorTargetAssemblyInfo.cache
+C:\git-focco\Treinamentos\Treinamento Focco em Frente 19-07-2021\Projeto Base Original\src\FoccoEmFrente.Kanban.Web\obj\Debug\netcoreapp3.1\FoccoEmFrente.Kanban.Web.RazorTargetAssemblyInfo.cs
+C:\git-focco\Treinamentos\Treinamento Focco em Frente 19-07-2021\Projeto Base Original\src\FoccoEmFrente.Kanban.Web\obj\Debug\netcoreapp3.1\FoccoEmFrente.Kanban.Web.Views.pdb
+C:\git-focco\Treinamentos\Treinamento Focco em Frente 19-07-2021\Projeto Base Original\src\FoccoEmFrente.Kanban.Web\obj\Debug\netcoreapp3.1\FoccoEmFrente.Kanban.Web.csproj.CopyComplete
+C:\git-focco\Treinamentos\Treinamento Focco em Frente 19-07-2021\Projeto Base Original\src\FoccoEmFrente.Kanban.Web\obj\Debug\netcoreapp3.1\FoccoEmFrente.Kanban.Web.dll
+C:\git-focco\Treinamentos\Treinamento Focco em Frente 19-07-2021\Projeto Base Original\src\FoccoEmFrente.Kanban.Web\obj\Debug\netcoreapp3.1\FoccoEmFrente.Kanban.Web.pdb
+C:\git-focco\Treinamentos\Treinamento Focco em Frente 19-07-2021\Projeto Base Original\src\FoccoEmFrente.Kanban.Web\obj\Debug\netcoreapp3.1\FoccoEmFrente.Kanban.Web.genruntimeconfig.cache
+C:\React\Focco\Projeto Base\src\FoccoEmFrente.Kanban.Web\bin\Debug\netcoreapp3.1\appsettings.json
+C:\React\Focco\Projeto Base\src\FoccoEmFrente.Kanban.Web\bin\Debug\netcoreapp3.1\libman.json
+C:\React\Focco\Projeto Base\src\FoccoEmFrente.Kanban.Web\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+C:\React\Focco\Projeto Base\src\FoccoEmFrente.Kanban.Web\bin\Debug\netcoreapp3.1\FoccoEmFrente.Kanban.Web.StaticWebAssets.xml
+C:\React\Focco\Projeto Base\src\FoccoEmFrente.Kanban.Web\bin\Debug\netcoreapp3.1\FoccoEmFrente.Kanban.Web.exe
+C:\React\Focco\Projeto Base\src\FoccoEmFrente.Kanban.Web\bin\Debug\netcoreapp3.1\FoccoEmFrente.Kanban.Web.deps.json
+C:\React\Focco\Projeto Base\src\FoccoEmFrente.Kanban.Web\bin\Debug\netcoreapp3.1\FoccoEmFrente.Kanban.Web.runtimeconfig.json
+C:\React\Focco\Projeto Base\src\FoccoEmFrente.Kanban.Web\bin\Debug\netcoreapp3.1\FoccoEmFrente.Kanban.Web.runtimeconfig.dev.json
+C:\React\Focco\Projeto Base\src\FoccoEmFrente.Kanban.Web\bin\Debug\netcoreapp3.1\FoccoEmFrente.Kanban.Web.dll
+C:\React\Focco\Projeto Base\src\FoccoEmFrente.Kanban.Web\bin\Debug\netcoreapp3.1\FoccoEmFrente.Kanban.Web.pdb
+C:\React\Focco\Projeto Base\src\FoccoEmFrente.Kanban.Web\bin\Debug\netcoreapp3.1\FoccoEmFrente.Kanban.Web.Views.dll
+C:\React\Focco\Projeto Base\src\FoccoEmFrente.Kanban.Web\bin\Debug\netcoreapp3.1\FoccoEmFrente.Kanban.Web.Views.pdb
+C:\React\Focco\Projeto Base\src\FoccoEmFrente.Kanban.Web\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\React\Focco\Projeto Base\src\FoccoEmFrente.Kanban.Web\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Cryptography.Internal.dll
+C:\React\Focco\Projeto Base\src\FoccoEmFrente.Kanban.Web\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+C:\React\Focco\Projeto Base\src\FoccoEmFrente.Kanban.Web\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+C:\React\Focco\Projeto Base\src\FoccoEmFrente.Kanban.Web\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Identity.UI.Views.V3.dll
+C:\React\Focco\Projeto Base\src\FoccoEmFrente.Kanban.Web\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Identity.UI.Views.V4.dll
+C:\React\Focco\Projeto Base\src\FoccoEmFrente.Kanban.Web\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Identity.UI.dll
+C:\React\Focco\Projeto Base\src\FoccoEmFrente.Kanban.Web\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.JsonPatch.dll
+C:\React\Focco\Projeto Base\src\FoccoEmFrente.Kanban.Web\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Mvc.Razor.Extensions.dll
+C:\React\Focco\Projeto Base\src\FoccoEmFrente.Kanban.Web\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.NodeServices.dll
+C:\React\Focco\Projeto Base\src\FoccoEmFrente.Kanban.Web\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Razor.Language.dll
+C:\React\Focco\Projeto Base\src\FoccoEmFrente.Kanban.Web\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.SpaServices.dll
+C:\React\Focco\Projeto Base\src\FoccoEmFrente.Kanban.Web\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.SpaServices.Extensions.dll
+C:\React\Focco\Projeto Base\src\FoccoEmFrente.Kanban.Web\bin\Debug\netcoreapp3.1\Microsoft.Bcl.AsyncInterfaces.dll
+C:\React\Focco\Projeto Base\src\FoccoEmFrente.Kanban.Web\bin\Debug\netcoreapp3.1\Microsoft.Bcl.HashCode.dll
+C:\React\Focco\Projeto Base\src\FoccoEmFrente.Kanban.Web\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.dll
+C:\React\Focco\Projeto Base\src\FoccoEmFrente.Kanban.Web\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.dll
+C:\React\Focco\Projeto Base\src\FoccoEmFrente.Kanban.Web\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Razor.dll
+C:\React\Focco\Projeto Base\src\FoccoEmFrente.Kanban.Web\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\React\Focco\Projeto Base\src\FoccoEmFrente.Kanban.Web\bin\Debug\netcoreapp3.1\Microsoft.DotNet.PlatformAbstractions.dll
+C:\React\Focco\Projeto Base\src\FoccoEmFrente.Kanban.Web\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+C:\React\Focco\Projeto Base\src\FoccoEmFrente.Kanban.Web\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\React\Focco\Projeto Base\src\FoccoEmFrente.Kanban.Web\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+C:\React\Focco\Projeto Base\src\FoccoEmFrente.Kanban.Web\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+C:\React\Focco\Projeto Base\src\FoccoEmFrente.Kanban.Web\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\React\Focco\Projeto Base\src\FoccoEmFrente.Kanban.Web\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+C:\React\Focco\Projeto Base\src\FoccoEmFrente.Kanban.Web\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+C:\React\Focco\Projeto Base\src\FoccoEmFrente.Kanban.Web\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+C:\React\Focco\Projeto Base\src\FoccoEmFrente.Kanban.Web\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\React\Focco\Projeto Base\src\FoccoEmFrente.Kanban.Web\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Binder.dll
+C:\React\Focco\Projeto Base\src\FoccoEmFrente.Kanban.Web\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+C:\React\Focco\Projeto Base\src\FoccoEmFrente.Kanban.Web\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\React\Focco\Projeto Base\src\FoccoEmFrente.Kanban.Web\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyModel.dll
+C:\React\Focco\Projeto Base\src\FoccoEmFrente.Kanban.Web\bin\Debug\netcoreapp3.1\Microsoft.Extensions.FileProviders.Abstractions.dll
+C:\React\Focco\Projeto Base\src\FoccoEmFrente.Kanban.Web\bin\Debug\netcoreapp3.1\Microsoft.Extensions.FileProviders.Embedded.dll
+C:\React\Focco\Projeto Base\src\FoccoEmFrente.Kanban.Web\bin\Debug\netcoreapp3.1\Microsoft.Extensions.FileProviders.Physical.dll
+C:\React\Focco\Projeto Base\src\FoccoEmFrente.Kanban.Web\bin\Debug\netcoreapp3.1\Microsoft.Extensions.FileSystemGlobbing.dll
+C:\React\Focco\Projeto Base\src\FoccoEmFrente.Kanban.Web\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Identity.Core.dll
+C:\React\Focco\Projeto Base\src\FoccoEmFrente.Kanban.Web\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Identity.Stores.dll
+C:\React\Focco\Projeto Base\src\FoccoEmFrente.Kanban.Web\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+C:\React\Focco\Projeto Base\src\FoccoEmFrente.Kanban.Web\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+C:\React\Focco\Projeto Base\src\FoccoEmFrente.Kanban.Web\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Configuration.dll
+C:\React\Focco\Projeto Base\src\FoccoEmFrente.Kanban.Web\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Console.dll
+C:\React\Focco\Projeto Base\src\FoccoEmFrente.Kanban.Web\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+C:\React\Focco\Projeto Base\src\FoccoEmFrente.Kanban.Web\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.ConfigurationExtensions.dll
+C:\React\Focco\Projeto Base\src\FoccoEmFrente.Kanban.Web\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+C:\React\Focco\Projeto Base\src\FoccoEmFrente.Kanban.Web\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+C:\React\Focco\Projeto Base\src\FoccoEmFrente.Kanban.Web\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\React\Focco\Projeto Base\src\FoccoEmFrente.Kanban.Web\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+C:\React\Focco\Projeto Base\src\FoccoEmFrente.Kanban.Web\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+C:\React\Focco\Projeto Base\src\FoccoEmFrente.Kanban.Web\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\React\Focco\Projeto Base\src\FoccoEmFrente.Kanban.Web\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+C:\React\Focco\Projeto Base\src\FoccoEmFrente.Kanban.Web\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\React\Focco\Projeto Base\src\FoccoEmFrente.Kanban.Web\bin\Debug\netcoreapp3.1\Newtonsoft.Json.Bson.dll
+C:\React\Focco\Projeto Base\src\FoccoEmFrente.Kanban.Web\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+C:\React\Focco\Projeto Base\src\FoccoEmFrente.Kanban.Web\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+C:\React\Focco\Projeto Base\src\FoccoEmFrente.Kanban.Web\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+C:\React\Focco\Projeto Base\src\FoccoEmFrente.Kanban.Web\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+C:\React\Focco\Projeto Base\src\FoccoEmFrente.Kanban.Web\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+C:\React\Focco\Projeto Base\src\FoccoEmFrente.Kanban.Web\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+C:\React\Focco\Projeto Base\src\FoccoEmFrente.Kanban.Web\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+C:\React\Focco\Projeto Base\src\FoccoEmFrente.Kanban.Web\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+C:\React\Focco\Projeto Base\src\FoccoEmFrente.Kanban.Web\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+C:\React\Focco\Projeto Base\src\FoccoEmFrente.Kanban.Web\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+C:\React\Focco\Projeto Base\src\FoccoEmFrente.Kanban.Web\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+C:\React\Focco\Projeto Base\src\FoccoEmFrente.Kanban.Web\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.0\System.Runtime.Caching.dll
+C:\React\Focco\Projeto Base\src\FoccoEmFrente.Kanban.Web\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Runtime.Caching.dll
+C:\React\Focco\Projeto Base\src\FoccoEmFrente.Kanban.Web\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\React\Focco\Projeto Base\src\FoccoEmFrente.Kanban.Web\bin\Debug\netcoreapp3.1\FoccoEmFrente.Kanban.Api.dll
+C:\React\Focco\Projeto Base\src\FoccoEmFrente.Kanban.Web\bin\Debug\netcoreapp3.1\FoccoEmFrente.Kanban.Application.dll
+C:\React\Focco\Projeto Base\src\FoccoEmFrente.Kanban.Web\bin\Debug\netcoreapp3.1\FoccoEmFrente.Kanban.Api.pdb
+C:\React\Focco\Projeto Base\src\FoccoEmFrente.Kanban.Web\bin\Debug\netcoreapp3.1\FoccoEmFrente.Kanban.Application.pdb
+C:\React\Focco\Projeto Base\src\FoccoEmFrente.Kanban.Web\obj\Debug\netcoreapp3.1\FoccoEmFrente.Kanban.Web.csprojAssemblyReference.cache
+C:\React\Focco\Projeto Base\src\FoccoEmFrente.Kanban.Web\obj\Debug\netcoreapp3.1\FoccoEmFrente.Kanban.Web.AssemblyInfoInputs.cache
+C:\React\Focco\Projeto Base\src\FoccoEmFrente.Kanban.Web\obj\Debug\netcoreapp3.1\FoccoEmFrente.Kanban.Web.AssemblyInfo.cs
+C:\React\Focco\Projeto Base\src\FoccoEmFrente.Kanban.Web\obj\Debug\netcoreapp3.1\FoccoEmFrente.Kanban.Web.csproj.CoreCompileInputs.cache
+C:\React\Focco\Projeto Base\src\FoccoEmFrente.Kanban.Web\obj\Debug\netcoreapp3.1\FoccoEmFrente.Kanban.Web.MvcApplicationPartsAssemblyInfo.cs
+C:\React\Focco\Projeto Base\src\FoccoEmFrente.Kanban.Web\obj\Debug\netcoreapp3.1\FoccoEmFrente.Kanban.Web.MvcApplicationPartsAssemblyInfo.cache
+C:\React\Focco\Projeto Base\src\FoccoEmFrente.Kanban.Web\obj\Debug\netcoreapp3.1\FoccoEmFrente.Kanban.Web.RazorAssemblyInfo.cache
+C:\React\Focco\Projeto Base\src\FoccoEmFrente.Kanban.Web\obj\Debug\netcoreapp3.1\FoccoEmFrente.Kanban.Web.RazorAssemblyInfo.cs
+C:\React\Focco\Projeto Base\src\FoccoEmFrente.Kanban.Web\obj\Debug\netcoreapp3.1\FoccoEmFrente.Kanban.Web.TagHelpers.input.cache
+C:\React\Focco\Projeto Base\src\FoccoEmFrente.Kanban.Web\obj\Debug\netcoreapp3.1\FoccoEmFrente.Kanban.Web.TagHelpers.output.cache
+C:\React\Focco\Projeto Base\src\FoccoEmFrente.Kanban.Web\obj\Debug\netcoreapp3.1\FoccoEmFrente.Kanban.Web.RazorCoreGenerate.cache
+C:\React\Focco\Projeto Base\src\FoccoEmFrente.Kanban.Web\obj\Debug\netcoreapp3.1\Razor\Pages\Error.cshtml.g.cs
+C:\React\Focco\Projeto Base\src\FoccoEmFrente.Kanban.Web\obj\Debug\netcoreapp3.1\Razor\Pages\_ViewImports.cshtml.g.cs
+C:\React\Focco\Projeto Base\src\FoccoEmFrente.Kanban.Web\obj\Debug\netcoreapp3.1\FoccoEmFrente.Kanban.Web.RazorTargetAssemblyInfo.cache
+C:\React\Focco\Projeto Base\src\FoccoEmFrente.Kanban.Web\obj\Debug\netcoreapp3.1\FoccoEmFrente.Kanban.Web.RazorTargetAssemblyInfo.cs
+C:\React\Focco\Projeto Base\src\FoccoEmFrente.Kanban.Web\obj\Debug\netcoreapp3.1\FoccoEmFrente.Kanban.Web.Views.pdb
+C:\React\Focco\Projeto Base\src\FoccoEmFrente.Kanban.Web\obj\Debug\netcoreapp3.1\FoccoEmFrente.Kanban.Web.csproj.CopyComplete
+C:\React\Focco\Projeto Base\src\FoccoEmFrente.Kanban.Web\obj\Debug\netcoreapp3.1\staticwebassets\FoccoEmFrente.Kanban.Web.StaticWebAssets.Manifest.cache
+C:\React\Focco\Projeto Base\src\FoccoEmFrente.Kanban.Web\obj\Debug\netcoreapp3.1\staticwebassets\FoccoEmFrente.Kanban.Web.StaticWebAssets.xml
+C:\React\Focco\Projeto Base\src\FoccoEmFrente.Kanban.Web\obj\Debug\netcoreapp3.1\FoccoEmFrente.Kanban.Web.dll
+C:\React\Focco\Projeto Base\src\FoccoEmFrente.Kanban.Web\obj\Debug\netcoreapp3.1\FoccoEmFrente.Kanban.Web.pdb
+C:\React\Focco\Projeto Base\src\FoccoEmFrente.Kanban.Web\obj\Debug\netcoreapp3.1\FoccoEmFrente.Kanban.Web.genruntimeconfig.cache
